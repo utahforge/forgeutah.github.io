@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Forge</title>
+    <link>http://forgeutah.tech/index.xml</link>
+    <description>Recent content on The Forge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://forgeutah.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Forge has officially launched!</title>
+      <link>http://forgeutah.tech/post/2017-07-24-welcome/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/post/2017-07-24-welcome/</guid>
+      <description>&lt;p&gt;Welcome to The Forge, a new site dedicated to helping Utah technologists share, learn, and build with the community.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&#34;http://forgeutah.tech/about&#34;&gt;about page&lt;/a&gt; to see what our goals and mission are. We are excited and hope the content we post will be interesting and valuable to you.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://forgeutah.tech/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;Welcome to The Forge, an organization dedicated to helping Utah technologists &lt;strong&gt;share&lt;/strong&gt;, &lt;strong&gt;learn&lt;/strong&gt;, and &lt;strong&gt;build&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-origin&#34;&gt;The Origin&lt;/h2&gt;
+
+&lt;p&gt;One of the best things about the Utah Go Meetup that I co-host is that people stick around and talk about the technology problems they are trying to solve and the cool tech they are using to solve those problems. There are so many amazing things I have learned that I wanted to come up with a place to share the information.&lt;/p&gt;
+
+&lt;p&gt;Also, while I am a big fan of Beehive Startups and Silicon Slopes (now combined into one entity) I always wanted to hear more details about the technology powering Utah tech startups instead of how much money they were able to raise. This site hopefully will be a place for programmers, technologists, makers, and inventors to come share knowledge and learn from other companies in their local community.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-mission&#34;&gt;The Mission&lt;/h2&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;h3&gt;Share - Learn - Build&lt;/h3&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Share&lt;/strong&gt; - First and foremost we believe in sharing information. Our goal is to facilitate sharing as a form of “enlightened self interest” (sharing freely for karma). We also believe strongly in open source and want to share as much code, configs, and general information as possible. Have something you want to share? Send an email to clint@forgeutah.tech and I’ll get right back to you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Learn&lt;/strong&gt; - The Forge is a place to learn, mainly from content shared by others, but also we plan to host workshops and facilitate learning of all kinds in the local community. We will add a calendar of events as we ramp up.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Build&lt;/strong&gt; - The culmination of all the sharing and learning is ultimately to build. We want to empower our community to build the next generation of technology.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

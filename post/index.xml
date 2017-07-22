@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Forge</title>
+    <link>http://forgeutah.tech/post/index.xml</link>
+    <description>Recent content in Posts on The Forge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://forgeutah.tech/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Forge has officially launched!</title>
+      <link>http://forgeutah.tech/post/2017-07-24-welcome/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/post/2017-07-24-welcome/</guid>
+      <description>&lt;p&gt;Welcome to The Forge, a new site dedicated to helping Utah technologists share, learn, and build with the community.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&#34;http://forgeutah.tech/about&#34;&gt;about page&lt;/a&gt; to see what our goals and mission are. We are excited and hope the content we post will be interesting and valuable to you.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
